@@ -1,23 +1,54 @@
-## Hi there! :smile_cat:
+# Hi there! 👋 Welcome to my GitHub!
 
-My name is Angel and this is my landing page for my GitHub account! Please let me introduce myself and tell you more about me and my interests below.
+I'm Angel, a Data Science enthusiast and former Veterinary Surgeon, currently transitioning into the world of data-driven problem solving. Below, you’ll find more about my background, skills, and ongoing projects.
 
-### About me
-- **Name pronunciation**: /ˈaŋxel/
-- **Pronouns**: he/him
-- **Location**: From Spain but currently living and working in the UK.
-- **Languages**: Spanish, Catalan, and English. 
-- **Interests outside work**: science, nature, music, books, cats, and cooking. 
+---
 
-### A little bit about my previous education and work experience
-After studying Science A-levels (Spanish equivalent), I studied a Quality Control Lab Technician certification and then a Bachelor's Degree in Veterinary Medicine at the Autonomous University of Barcelona. Then I worked as a Veterinary Surgeon in Spain for almost a year before I moved to the UK where I worked as a Veterinary Surgeon for more than 3 years.
+## About Me
 
-### I'm currently working on...
-Veterinary Medicine is not my only passion, I've always been passionate about using data to solve complex problems and support informed decision-making. That's why I decided to change my career into Data Science. So recently I completed an intensive Skills Bootcamp in Data Science, where I’ve developed hands-on skills in Python, machine learning, data analysis, and visualisation. 
-I’m eager to apply my expertise in a professional setting, collaborate on impactful projects, and continue growing in this dynamic industry. Open to opportunities where I can contribute through data-driven insights. Let’s connect!
+- **Name Pronunciation**: /ˈaŋxel/
+- **Pronouns**: He/Him
+- **Location**: Originally from Spain, now living and working in the UK.
+- **Languages**: Spanish, Catalan, and English.
+- **Outside of Work**: Cat lover, science, nature, music, musical theatre, digital art, and cooking.
 
-### How to reach me
-- *Email address*: angel.c.pizarro@gmail.com
-- *Linkedin*: <https://www.linkedin.com/in/angelcpizarro/>
+---
 
-![image](https://github.com/angelcpizarro/angelcpizarro/assets/163421573/35aaab71-816c-4bc4-8514-bb553dc27312)
+## My Journey: From Veterinary Medicine to Data Science
+
+My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon** in both Spain and the UK. After completing my Bachelor’s Degree in Veterinary Medicine at the Autonomous University of Barcelona, I transitioned into a career that allowed me to combine my scientific knowledge with a passion for problem-solving.
+
+After years in veterinary practice, I found my true calling in **Data Science and Analytics**. This led me to complete an intensive **Data Science Bootcamp**, where I developed skills in:
+
+- **Python** programming, data analytics, and data visualisation
+- **Machine Learning** algorithms
+- **Data Analysis** and **Visualisation** techniques
+- **SQL**
+
+I am now focused on leveraging data to help organizations make informed decisions and drive business impact. I am excited to continue building my expertise and collaborating with like-minded professionals.
+
+---
+
+## Currently Working On...
+
+As I continue to build my data analytics skills, I am working on several projects focused on:
+
+- **SQL & Database Management**: Optimising queries, designing databases, and handling large datasets.
+- **Power BI**: Creating dynamic dashboards and visualisations to extract actionable insights from data.
+- **Machine Learning**: Applying machine learning models to solve real-world problems, including predictions and classification tasks.
+
+Check out my repositories below to see the projects I'm working on!
+
+- [SQL Projects](https://github.com/angelcpizarro/sql-practice) - A collection of SQL exercises and projects where I focus on querying and data manipulation.
+- [Power BI Dashboards](https://github.com/angelcpizarro/powerbi-projects) - A selection of Power BI dashboards I’ve created for data analysis and storytelling.
+
+---
+
+## Let’s Connect!
+
+- **Email**: [angel.c.pizarro@gmail.com](mailto:angel.c.pizarro@gmail.com)
+- **LinkedIn**: [linkedin.com/in/angelcpizarro](https://www.linkedin.com/in/angelcpizarro/)
+  
+Feel free to reach out if you’re interested in collaboration, mentorship, or simply want to chat about data and analytics. I’m always eager to connect with others in the field!
+
+![Profile Image](https://github.com/angelcpizarro/angelcpizarro/assets/163421573/35aaab71-816c-4bc4-8514-bb553dc27312)
