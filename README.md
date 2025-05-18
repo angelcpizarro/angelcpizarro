@@ -39,7 +39,7 @@ As I continue to build my data analytics skills, I am working on several project
 
 Check out my repositories below to see the projects I'm working on!
 
-- [SQL Projects](https://github.com/angelcpizarro/sql-practice) - A collection of SQL exercises and projects where I focus on querying and data manipulation.
+- [SQL Projects](https://github.com/angelcpizarro/sql-projects) - A collection of SQL exercises and projects where I focus on querying and data manipulation.
 - [Power BI Dashboards](https://github.com/angelcpizarro/powerbi-projects) - A selection of Power BI dashboards I’ve created for data analysis and storytelling.
 
 ---
