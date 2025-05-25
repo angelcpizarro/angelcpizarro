@@ -14,7 +14,7 @@ I'm Angel, a Data Science enthusiast and former Veterinary Surgeon, currently tr
 
 ---
 
-## My Journey: From Veterinary Medicine to Data Science
+## My Journey: From Veterinary Medicine to Data Science and Analytics
 
 My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon** in both Spain and the UK. After completing my Bachelor’s Degree in Veterinary Medicine at the Autonomous University of Barcelona, I transitioned into a career that allowed me to combine my scientific knowledge with a passion for problem-solving.
 
