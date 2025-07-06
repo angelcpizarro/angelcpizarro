@@ -35,15 +35,15 @@ I am now focused on using data to help organisations make informed decisions and
 Below are some of my key data projects. Click each title to explore the code, documentation, and visualisations:
 
 ### 🛳️ Titanic Survival EDA
-Tools: Python (Pandas, Matplotlib, Seaborn)
+- Tools: Python (Pandas, Matplotlib, Seaborn)
 Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
 
 ### 🐾 Vet Clinic Data Analysis (In Progress)
-Tools: SQL • Python • Excel • Tableau
+- Tools: SQL • Python • Excel • Tableau
 An end-to-end analysis of fictional vet clinic data. I designed a relational database, queried using SQL, cleaned and analysed in Python, and visualised insights in Tableau. Currently exploring a machine learning extension to predict no-shows or treatment outcomes.
 
 ### 🫀 Heart Disease Prediction (Coming Soon)
-Tools: Python • Scikit-learn • ML Algorithms
+- Tools: Python • Scikit-learn • ML Algorithms
 Developing a binary classification model to predict the likelihood of heart disease based on patient data. Includes feature engineering, model training, and evaluation with precision-recall analysis.
 
 ### 📚 Learning Exercises
