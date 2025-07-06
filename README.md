@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I'm Angel, a Data Science enthusiast and former Veterinary Surgeon, currently transitioning into the world of data-driven problem solving. Below, you’ll find more about my background, skills, and ongoing projects.
+I'm Angel, a Data Science enthusiast and former Veterinary Surgeon, currently transitioning into the field of data science and analytics. Below, you’ll find more about my background, skills, and ongoing projects.
 
 ---
 
@@ -20,28 +20,36 @@ My background lies in **Veterinary Medicine**, where I spent several years worki
 
 After years in veterinary practice, I found my true calling in **Data Science and Analytics**. This led me to complete an intensive **Data Science Bootcamp** and continue learning by myself, which allowed me to develop skills in:
 
-- **Python** programming, data analytics, and data visualisation
+- **Python** programming
 - **Machine Learning** algorithms
 - **Data Analysis** and **Visualisation** techniques
-- **SQL**
+- **Advanced MS Excel**
+- **Querying with SQL**
 
-I am now focused on leveraging data to help organisations make informed decisions and drive business impact. I am excited to continue building my expertise and collaborating with like-minded professionals.
+I am now focused on using data to help organisations make informed decisions and drive business impact. I am excited to continue building my expertise and collaborating with like-minded professionals.
 
 ---
 
-## Currently Working On...
+## Projects
 
-As I continue to build my data analytics skills, I am working on several projects focused on:
+Below are some of my key data projects. Click each title to explore the code, documentation, and visualisations:
 
-- **SQL & Database Management**: Optimising queries, designing databases, and handling large datasets.
-- **Tableau**: Creating dynamic dashboards and visualisations to extract actionable insights from data.
-- **Machine Learning**: Applying machine learning models to solve real-world problems, including predictions tasks.
+### 🛳️ Titanic Survival EDA
+Tools: Python (Pandas, Matplotlib, Seaborn)
+Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
 
-Check out my repositories below to see the projects I'm working on!
+### 🐾 Vet Clinic Data Analysis (In Progress)
+Tools: SQL • Python • Excel • Tableau
+An end-to-end analysis of fictional vet clinic data. I designed a relational database, queried using SQL, cleaned and analysed in Python, and visualised insights in Tableau. Currently exploring a machine learning extension to predict no-shows or treatment outcomes.
 
-- [Python Projects](https://github.com/angelcpizarro/python-projects) - A collection of Python projects showcasing my skills in programming, data analytics, and machine learning. It includes object-oriented scripting, exploratory data analysis (EDA), and predictive modeling using real-world datasets.
-- [SQL Projects](https://github.com/angelcpizarro/sql-projects) - A collection of SQL exercises and projects where I focus on querying and data manipulation.
-- [Tableau Projects](https://github.com/angelcpizarro/tableau-projects) - A selection of Tableau dashboards I’ve created for data analysis and storytelling.
+### 🫀 Heart Disease Prediction (Coming Soon)
+Tools: Python • Scikit-learn • ML Algorithms
+Developing a binary classification model to predict the likelihood of heart disease based on patient data. Includes feature engineering, model training, and evaluation with precision-recall analysis.
+
+### 📚 Learning Exercises
+
+- [Python scripts](https://github.com/angelcpizarro/python-projects)
+- [SQL practice](https://github.com/angelcpizarro/sql-projects)
 
 ---
 
