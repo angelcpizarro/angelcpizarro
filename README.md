@@ -34,7 +34,7 @@ I am now focused on using data to help organisations make informed decisions and
 
 Below are some of my key data projects. Click each title to explore the code, documentation, and visualisations:
 
-### 🛳️ Titanic Survival EDA
+### 🛳️ [Titanic Survival EDA](https://github.com/angelcpizarro/titanic-eda)
 - Tools: Python (Pandas, Matplotlib, Seaborn)
 - Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
 
