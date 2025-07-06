@@ -48,8 +48,8 @@ Below are some of my key data projects. Click each title to explore the code, do
 
 ### 📚 Learning Exercises
 
-- [Python scripts](https://github.com/angelcpizarro/python-projects)
-- [SQL practice](https://github.com/angelcpizarro/sql-projects)
+- [Python Scripts](https://github.com/angelcpizarro/python-projects)
+- [SQL Practice](https://github.com/angelcpizarro/sql-projects)
 
 ---
 
