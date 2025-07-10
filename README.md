@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I'm Angel, a Data Science enthusiast and former Veterinary Surgeon, currently transitioning into the field of data science and analytics. Below, you’ll find more about my background, skills, and ongoing projects.
+I'm Angel, a Data Science and Analytics enthusiast and former Veterinary Surgeon, currently transitioning into the field of data science and analytics. Below, you’ll find more about my background, skills, and ongoing projects.
 
 ---
 
@@ -16,7 +16,7 @@ I'm Angel, a Data Science enthusiast and former Veterinary Surgeon, currently tr
 
 ## My Journey: From Veterinary Medicine to Data Science and Analytics
 
-My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon** in both Spain and the UK. After completing my Bachelor’s Degree in Veterinary Medicine at the Autonomous University of Barcelona, I transitioned into a career that allowed me to combine my scientific knowledge with a passion for problem-solving.
+My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon** in both Spain and the UK. Now, I'm transitioning into a career that allowed me to combine my scientific knowledge and analytical mindset with a passion for problem-solving.
 
 After years in veterinary practice, I found my true calling in **Data Science and Analytics**. This led me to complete an intensive **Data Science Bootcamp** and continue learning by myself, which allowed me to develop skills in:
 
@@ -25,6 +25,7 @@ After years in veterinary practice, I found my true calling in **Data Science an
 - **Data Analysis** and **Visualisation** techniques
 - **Advanced MS Excel**
 - **Querying with SQL**
+- **BI tools such as Tableau (in progress)**
 
 I am now focused on using data to help organisations make informed decisions and drive business impact. I am excited to continue building my expertise and collaborating with like-minded professionals.
 
