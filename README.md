@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I'm Angel, a Data Science and Analytics enthusiast and former Veterinary Surgeon, currently transitioning into the field of data science and analytics. Below, you’ll find more about my background, skills, and ongoing projects.
+I'm Ángel, a Data Science and Analytics enthusiast and former Veterinary Surgeon, currently transitioning into the field of data science and analytics. Below, you’ll find more about my background, skills, and ongoing projects.
 
 ---
 
@@ -8,7 +8,7 @@ I'm Angel, a Data Science and Analytics enthusiast and former Veterinary Surgeon
 
 - **Name Pronunciation**: /ˈaŋxel/
 - **Pronouns**: He/Him
-- **Location**: Originally from Spain, now living and working in the UK.
+- **Location**: Originally from Barcelona (Spain), now living and working in London (United Kingdom).
 - **Languages**: Spanish, Catalan, and English.
 - **Outside of Work**: Cat lover, science, nature, music, musical theatre, digital art, and cooking.
 
@@ -16,7 +16,7 @@ I'm Angel, a Data Science and Analytics enthusiast and former Veterinary Surgeon
 
 ## My Journey: From Veterinary Medicine to Data Science and Analytics
 
-My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon** in both Spain and the UK. Now, I'm transitioning into a career that allowed me to combine my scientific knowledge and analytical mindset with a passion for problem-solving.
+My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon**. Now, I'm transitioning into a career that allowed me to combine my scientific knowledge and analytical mindset with a passion for problem-solving.
 
 After years in veterinary practice, I found my true calling in **Data Science and Analytics**. This led me to complete an intensive **Data Science Bootcamp** and continue learning by myself, which allowed me to develop skills in:
 
@@ -42,10 +42,6 @@ Below are some of my key data projects. Click each title to explore the code, do
 ### 🐾 Vet Clinic Data Analysis (In Progress)
 - Tools: SQL • Python • Excel • Tableau
 - An end-to-end analysis of fictional vet clinic data. I designed a relational database, queried using SQL, cleaned and analysed in Python, and visualised insights in Tableau. Currently exploring a machine learning extension to predict no-shows or treatment outcomes.
-
-### 🫀 Heart Disease Prediction (Coming Soon)
-- Tools: Python • Scikit-learn • ML Algorithms
-- Developing a binary classification model to predict the likelihood of heart disease based on patient data. Includes feature engineering, model training, and evaluation with precision-recall analysis.
 
 ### 📚 Learning Exercises
 
