@@ -41,13 +41,13 @@ Below are some of my key data projects. Click each title to explore the code, do
   Includes data validation, cleaning, exploratory analysis, and dashboard storytelling using Google’s analytics stack.
   Investigated fraud rates across categories, payment channels, devices, and behavioural scores (spending deviation, velocity, geo anomaly) to demonstrate how structured data workflows can power fraud detection and product insight.
 
-### 🛳️ [Titanic Survival EDA](https://github.com/angelcpizarro/titanic-eda)
-- Tools: Python (Pandas, Matplotlib, Seaborn)
-- Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
-
 ### 🩺 [NHS National Diabetes Audit 2024–25 EDA](https://github.com/angelcpizarro/diabetes-nda-2024-25-eda)
 - Tools: Python (Pandas, Matplotlib/Seaborn), SQL (SQLite for joins)
 - Exploratory Data Analysis on the NHS National Diabetes Audit (NDA) 2024-25 dataset. Focused on Type 2 diabetes — the most common form — to investigate prevalence, care process delivery, treatment target achievement, regional variation, and equity across age, sex, and ethnicity. Highlights healthcare inequalities and opportunities for service improvement.
+
+### 🛳️ [Titanic Survival EDA](https://github.com/angelcpizarro/titanic-eda)
+- Tools: Python (Pandas, Matplotlib, Seaborn)
+- Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
 
 ### 📚 Learning Exercises
 
