@@ -35,6 +35,12 @@ I am now focused on using data to help organisations make informed decisions and
 
 Below are some of my key data projects. Click each title to explore the code, documentation, and visualisations:
 
+### 💳 [Uncovering Risk: Data-Driven Insights from Financial Transactions](https://github.com/angelcpizarro/financial-transactions-and-fraud-detection)
+- Tools: Google Cloud Storage, BigQuery (SQL), Google Sheets, Looker Studio, Notion
+- End-to-end analysis of 5 million synthetic financial transactions to explore customer behaviour and detect potential fraud patterns.
+Includes data validation, cleaning, exploratory analysis, and dashboard storytelling using Google’s analytics stack.
+Investigated fraud rates across categories, payment channels, devices, and behavioural scores (spending deviation, velocity, geo anomaly) to demonstrate how structured data workflows can power fraud detection and product insight.
+
 ### 🛳️ [Titanic Survival EDA](https://github.com/angelcpizarro/titanic-eda)
 - Tools: Python (Pandas, Matplotlib, Seaborn)
 - Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
