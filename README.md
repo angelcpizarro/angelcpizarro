@@ -25,7 +25,7 @@ After years in veterinary practice, I found my true calling in **Data Science an
 - **Data Analysis** and **Visualisation** techniques
 - **Advanced MS Excel**
 - **Querying with SQL**
-- **BI tools such as Tableau (in progress)**
+- **BI tools such as Looker Studio**
 
 I am now focused on using data to help organisations make informed decisions and drive business impact. I am excited to continue building my expertise and collaborating with like-minded professionals.
 
