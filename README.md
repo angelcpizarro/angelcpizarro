@@ -61,6 +61,6 @@ Below are some of my key data projects. Click each title to explore the code, do
 - **Email**: [angel.c.pizarro@gmail.com](mailto:angel.c.pizarro@gmail.com)
 - **LinkedIn**: [linkedin.com/in/angelcpizarro](https://www.linkedin.com/in/angelcpizarro/)
   
-Feel free to reach out if you’re interested in collaboration, mentorship, or simply want to chat about data and analytics. I’m always eager to connect with others in the field!
+Feel free to reach out if you’re interested in collaboration or simply want to chat about data and analytics. I’m always eager to connect with others in the field!
 
 ![Profile Image](https://github.com/angelcpizarro/angelcpizarro/assets/163421573/35aaab71-816c-4bc4-8514-bb553dc27312)
