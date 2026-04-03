@@ -49,11 +49,6 @@ Below are some of my key data projects. Click each title to explore the code, do
 - Tools: Python (Pandas, Matplotlib, Seaborn)
 - Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
 
-### 📚 Learning Exercises
-
-- [Python Scripts](https://github.com/angelcpizarro/python-projects)
-- [SQL Practice](https://github.com/angelcpizarro/sql-projects)
-
 ---
 
 ## Let’s Connect!
