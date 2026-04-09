@@ -66,7 +66,7 @@ Below are some of my key data projects. I'm particularly excited about the first
 - **Email**: [angel.c.pizarro@gmail.com](mailto:angel.c.pizarro@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/angelcpizarro](https://linkedin.com/in/angelcpizarro/)  
 
-Feel free to reach out if you'd like to collaborate or just talk about data! 😸  
+Feel free to reach out! 😸  
 
 ---
 
