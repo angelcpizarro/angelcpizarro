@@ -1,61 +1,73 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I'm Ángel, a Data Science and Analytics enthusiast and former Veterinary Surgeon, currently transitioning into the field of data science and analytics. Below, you’ll find more about my background, skills, and ongoing projects.
+My name is Ángel, a Veterinary Surgeon transitioning into Data Engineering. I’m currently building my career in data and analytics, with a strong focus on developing practical, real-world solutions that can help improve people’s lives.
 
 ---
 
 ## About Me
 
-- **Name Pronunciation**: /ˈaŋxel/
-- **Pronouns**: He/Him
-- **Location**: Originally from Barcelona (Spain), now living and working in London (United Kingdom).
-- **Languages**: Spanish, Catalan, and English.
-- **Outside of Work**: Cat lover, science, nature, music, musical theatre, digital art, and cooking.
+- **Name Pronunciation**: /ˈaŋxel/  
+- **Pronouns**: He/Him  
+- **Location**: Originally from Barcelona (Spain), now living and working in London (United Kingdom).  
+- **Languages**: Spanish, Catalan, and English  
+- **Outside of Work**: Cat lover, science and technology, nature, music, musical theatre, digital art, and baking  
 
 ---
 
 ## My Journey: From Veterinary Medicine to Data Science and Analytics
 
-My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon**. Now, I'm transitioning into a career that allowed me to combine my scientific knowledge and analytical mindset with a passion for problem-solving.
+My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon**. I’m now transitioning into a career that allows me to combine my scientific and analytical mindset with a passion for problem-solving and technology.
 
-After years in veterinary practice, I found my true calling in **Data Science and Analytics**. This led me to complete an intensive **Data Science Bootcamp** and continue learning by myself, which allowed me to develop skills in:
+After completing an intensive **Data Science Skills Bootcamp**, I decided to deepen my skills through self-study and hands-on projects, focusing on:
 
-- **Python** programming
-- **Machine Learning** algorithms
-- **Data Analysis** and **Visualisation** techniques
-- **Advanced MS Excel**
-- **Querying with SQL**
-- **BI tools such as Looker Studio**
+- **Data Engineering** (ETL pipelines, data modelling, data warehousing)  
+- **SQL** for data querying and transformation  
+- **Python** programming  
+- **Data Analysis**, **Visualisation**, and **Storytelling**  
 
-I am now focused on using data to help organisations make informed decisions and drive business impact. I am excited to continue building my expertise and collaborating with like-minded professionals.
+I am now focused on building **scalable data pipelines** that transform raw data into actionable insights, helping organisations make informed decisions and drive business impact.
 
 ---
 
 ## Projects
 
-Below are some of my key data projects. Click each title to explore the code, documentation, and visualisations:
+Below are some of my key data projects. I'm particularly excited about the first one (my most recent work). Feel free to explore!
 
-### 💳 [Uncovering Risk: Data-Driven Insights from Financial Transactions](https://github.com/angelcpizarro/financial-transactions-and-fraud-detection)
-- Tools: Google Cloud Storage, BigQuery (SQL), Google Sheets, Looker Studio, Notion
-- End-to-end analysis of 5 million synthetic financial transactions to explore customer behaviour and detect potential fraud patterns.
-  Includes data validation, cleaning, exploratory analysis, and dashboard storytelling using Google’s analytics stack.
-  Investigated fraud rates across categories, payment channels, devices, and behavioural scores (spending deviation, velocity, geo anomaly) to demonstrate how structured data workflows can power fraud detection and product insight.
+### ⭐ [SQL Data Warehouse Project](https://github.com/angelcpizarro/sql-data-warehouse)
 
-### 🩺 [NHS National Diabetes Audit 2024–25 EDA](https://github.com/angelcpizarro/diabetes-nda-2024-25-eda)
-- Tools: Python (Pandas, Matplotlib/Seaborn), SQL (SQLite for joins)
-- Exploratory Data Analysis on the NHS National Diabetes Audit (NDA) 2024-25 dataset. Focused on Type 2 diabetes — the most common form — to investigate prevalence, care process delivery, treatment target achievement, regional variation, and equity across age, sex, and ethnicity. Highlights healthcare inequalities and opportunities for service improvement.
+- Tools: PostgreSQL, SQL, Draw.io, VS Code  
+- Designed and built an end-to-end data warehouse using a Medallion Architecture (Bronze → Silver → Gold)  
+- Implemented ETL pipelines, data cleaning, and validation processes to transform raw data into business-ready datasets  
+- Developed a star schema with dimension and fact views to support analytical queries  
+- Included structured documentation, data models, and quality checks to ensure clarity and reproducibility  
 
-### 🛳️ [Titanic Survival EDA](https://github.com/angelcpizarro/titanic-eda)
-- Tools: Python (Pandas, Matplotlib, Seaborn)
-- Exploratory Data Analysis on the classic Titanic dataset. Cleaned data, explored feature relationships, and visualised survival trends. An excellent introduction to EDA and storytelling with data.
+---
+
+### ▫️ [Uncovering Risk: Data-Driven Insights from Financial Transactions](https://github.com/angelcpizarro/financial-transactions-and-fraud-detection)
+
+- Tools: Google Cloud Storage, BigQuery (SQL), Google Sheets, Looker Studio, Notion  
+- End-to-end analysis of 5 million synthetic financial transactions to explore customer behaviour and detect potential fraud patterns  
+- Includes data validation, cleaning, exploratory analysis, and dashboard storytelling using Google’s analytics stack  
+- Investigated fraud patterns across categories, payment channels, devices, and behavioural indicators  
+
+---
+
+### ▫️ [NHS National Diabetes Audit 2024–25 EDA](https://github.com/angelcpizarro/diabetes-nda-2024-25-eda)
+
+- Tools: Python (Pandas, Matplotlib/Seaborn), SQL (SQLite for joins)  
+- Exploratory Data Analysis on the NHS National Diabetes Audit dataset  
+- Focused on Type 2 diabetes to analyse prevalence, treatment outcomes, and regional and demographic variation  
+- Highlights healthcare inequalities and opportunities for service improvement  
 
 ---
 
 ## Let’s Connect!
 
-- **Email**: [angel.c.pizarro@gmail.com](mailto:angel.c.pizarro@gmail.com)
-- **LinkedIn**: [linkedin.com/in/angelcpizarro](https://www.linkedin.com/in/angelcpizarro/)
-  
-Feel free to reach out if you’re interested in collaboration or simply want to chat about data and analytics. I’m always eager to connect with others in the field!
+- **Email**: [angel.c.pizarro@gmail.com](mailto:angel.c.pizarro@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/angelcpizarro](https://linkedin.com/in/angelcpizarro/)  
+
+Feel free to reach out if you'd like to collaborate or just talk about data — I’d love to connect! 😸  
+
+---
 
 ![Profile Image](https://github.com/angelcpizarro/angelcpizarro/assets/163421573/35aaab71-816c-4bc4-8514-bb553dc27312)
