@@ -22,7 +22,7 @@ After completing an intensive **Data Science Skills Bootcamp**, I decided to dee
 
 - **Data Engineering** (ETL pipelines, data modelling, data warehousing)  
 - **SQL** for data querying and transformation  
-- **Python** programming  
+- **Python** (Libraries: Pandas, NumPy, Seaborn, Matplotlib)  
 - **Data Analysis**, **Visualisation**, and **Storytelling**  
 
 I am now focused on building **scalable data pipelines** that transform raw data into actionable insights, helping organisations make informed decisions and drive business impact.
