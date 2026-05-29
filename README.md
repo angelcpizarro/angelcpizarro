@@ -43,15 +43,6 @@ Below are some of my key data projects. I'm particularly excited about the first
 
 ---
 
-### ▫️ [Uncovering Risk: Data-Driven Insights from Financial Transactions](https://github.com/angelcpizarro/financial-transactions-and-fraud-detection)
-
-- Tools: Google Cloud Storage, BigQuery (SQL), Google Sheets, Looker Studio, Notion  
-- End-to-end analysis of 5 million synthetic financial transactions to explore customer behaviour and detect potential fraud patterns  
-- Includes data validation, cleaning, exploratory analysis, and dashboard storytelling using Google’s analytics stack  
-- Investigated fraud patterns across categories, payment channels, devices, and behavioural indicators  
-
----
-
 ### ▫️ [NHS National Diabetes Audit 2024–25 EDA](https://github.com/angelcpizarro/diabetes-nda-2024-25-eda)
 
 - Tools: Python (Pandas, Matplotlib/Seaborn), SQL (SQLite for joins)  
