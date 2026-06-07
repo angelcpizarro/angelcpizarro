@@ -21,7 +21,7 @@ My background lies in **Veterinary Medicine**, where I spent 7 years working as 
 After completing an intensive **Data Science Skills Bootcamp**, I decided to deepen my skills through self-study and hands-on projects having recently completed a **Data Engineer Associate certificate** by DataCamp. Currently focusing on:
 
 - **Data Engineering** (ELT pipelines, data modelling, cloud tools)  
-- **SQL** for data querying and transformation using dbt  
+- **dbt and SQL** for data querying and transformation  
 - **Python** (Libraries: Pandas, NumPy, Seaborn, Matplotlib)  
 - **Data Analysis**, **Visualisation**, and **Storytelling**  
 
@@ -33,7 +33,7 @@ I am now focused on building **scalable data pipelines** that transform raw data
 
 Below are some of my key data projects. I'm particularly excited about the first one (my most recent work). Feel free to explore!
 
-### ♦️ [VetWatch: Global Animal Disease Analytics Project](https://github.com/angelcpizarro/vetwatch-disease-analytics)
+### ♦️ [VetWatch: Global Animal Disease Analytics](https://github.com/angelcpizarro/vetwatch-disease-analytics)
 
 - Tools: Python on VS Code, BigQuery, dbt, Looker Studio, and git/GitHub  
 - Designed and built an end-to-end data pipeline using a layered architecture on dbt (Staging → Intermediate → Mart)   
@@ -43,7 +43,7 @@ Below are some of my key data projects. I'm particularly excited about the first
 
 ---
 
-### ▫️ [SQL Data Warehouse Project](https://github.com/angelcpizarro/sql-data-warehouse)
+### ▫️ [SQL Data Warehouse](https://github.com/angelcpizarro/sql-data-warehouse)
 
 - Tools: PostgreSQL on VS Code 
 - Tutorial-based project where I built an end-to-end data warehouse using a Medallion Architecture (Bronze → Silver → Gold)  
