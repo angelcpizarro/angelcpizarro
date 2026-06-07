@@ -20,10 +20,11 @@ My background lies in **Veterinary Medicine**, where I spent 7 years working as 
 
 After completing an intensive **Data Science Skills Bootcamp**, I decided to deepen my skills through self-study and hands-on projects having recently completed a **Data Engineer Associate certificate** by DataCamp. Currently focusing on:
 
-- **Data Engineering** (ELT pipelines, data modelling, cloud tools)  
+- **Data Engineering** concepts such as pipelines (ETL vs ELT), dimensional modeling (star vs snowflake, and storage systems (data warehouse vs data lakehouse)
+- **Google Cloud Products** including BigQuery supporting ELT data processes  
 - **dbt and SQL** for data querying and transformation  
 - **Python** for data extraction and loading, and minimal preparation using libraries such as Pandas  
-- **Data Analysis**, **Visualisation**, and **Storytelling**  
+- **Looker Studio** as a BI tool for data analysis and visualisation  
 
 I am now focused on building **scalable data pipelines** that transform raw data into actionable insights, helping organisations make informed decisions and drive business impact.
 
