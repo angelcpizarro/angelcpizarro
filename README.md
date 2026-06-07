@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-My name is Ángel, a Veterinary Surgeon transitioning into Data Engineering. I’m currently building my career in data and analytics, with a strong focus on developing practical, real-world solutions that can help improve people’s lives.
+My name is Ángel, a Veterinary Surgeon transitioning into Data Engineering and Analytics. I’m currently building my career in data with a strong focus on developing practical, real-world solutions that can build robust infrastructure to support reliable data usage that can lead to improve people’s lives.
 
 ---
 
@@ -14,14 +14,14 @@ My name is Ángel, a Veterinary Surgeon transitioning into Data Engineering. I�
 
 ---
 
-## My Journey: From Veterinary Medicine to Data Science and Analytics
+## My Journey: From Veterinary Medicine to Data Engineering and Analytics
 
-My background lies in **Veterinary Medicine**, where I spent several years working as a **Veterinary Surgeon**. I’m now transitioning into a career that allows me to combine my scientific and analytical mindset with a passion for problem-solving and technology.
+My background lies in **Veterinary Medicine**, where I spent 7 years working as a **Veterinary Surgeon**. I’m now transitioning into a career that allows me to combine my scientific and analytical mindset with a passion for problem-solving and technology.
 
-After completing an intensive **Data Science Skills Bootcamp**, I decided to deepen my skills through self-study and hands-on projects, focusing on:
+After completing an intensive **Data Science Skills Bootcamp**, I decided to deepen my skills through self-study and hands-on projects having recently completed a **Data Engineer Associate certificate** by DataCamp. Currently focusing on:
 
-- **Data Engineering** (ETL pipelines, data modelling, data warehousing)  
-- **SQL** for data querying and transformation  
+- **Data Engineering** (ELT pipelines, data modelling, cloud tools)  
+- **SQL** for data querying and transformation using dbt  
 - **Python** (Libraries: Pandas, NumPy, Seaborn, Matplotlib)  
 - **Data Analysis**, **Visualisation**, and **Storytelling**  
 
@@ -33,10 +33,20 @@ I am now focused on building **scalable data pipelines** that transform raw data
 
 Below are some of my key data projects. I'm particularly excited about the first one (my most recent work). Feel free to explore!
 
-### ⭐ [SQL Data Warehouse Project](https://github.com/angelcpizarro/sql-data-warehouse)
+### ♦️ [VetWatch: Global Animal Disease Analytics Project](https://github.com/angelcpizarro/vetwatch-disease-analytics)
 
-- Tools: PostgreSQL, SQL, Draw.io, VS Code  
-- Designed and built an end-to-end data warehouse using a Medallion Architecture (Bronze → Silver → Gold)  
+- Tools: Python on VS Code, BigQuery, dbt, Looker Studio, and git/GitHub  
+- Designed and built an end-to-end data pipeline using a layered architecture on dbt (Staging → Intermediate → Mart)   
+- Implemented ETL pipelines, data cleaning, and validation processes to transform raw data into business-ready datasets  
+- Visualised and analysed data using a BI tool, and extracted insights for decision making.  
+- Included structured documentation, data models, and quality checks to ensure clarity and reproducibility
+
+---
+
+### ▫️ [SQL Data Warehouse Project](https://github.com/angelcpizarro/sql-data-warehouse)
+
+- Tools: PostgreSQL on VS Code 
+- Tutorial-based project where I built an end-to-end data warehouse using a Medallion Architecture (Bronze → Silver → Gold)  
 - Implemented ETL pipelines, data cleaning, and validation processes to transform raw data into business-ready datasets  
 - Developed a star schema with dimension and fact views to support analytical queries  
 - Included structured documentation, data models, and quality checks to ensure clarity and reproducibility  
@@ -45,7 +55,7 @@ Below are some of my key data projects. I'm particularly excited about the first
 
 ### ▫️ [NHS National Diabetes Audit 2024–25 EDA](https://github.com/angelcpizarro/diabetes-nda-2024-25-eda)
 
-- Tools: Python (Pandas, Matplotlib/Seaborn), SQL (SQLite for joins)  
+- Tools: Python (+ libraries) and SQLite  
 - Exploratory Data Analysis on the NHS National Diabetes Audit dataset  
 - Focused on Type 2 diabetes to analyse prevalence, treatment outcomes, and regional and demographic variation  
 - Highlights healthcare inequalities and opportunities for service improvement  
