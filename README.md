@@ -37,13 +37,6 @@ The project follows a layered dbt architecture (staging → intermediate → mar
 A data warehouse built using Medallion Architecture (Bronze → Silver → Gold), with a star schema designed for analytical queries. Covers ETL pipeline design, data cleaning and standardisation, and data quality validation.
 
 ---
- 
-### ▫️ [NHS National Diabetes Audit 2024–25 EDA](https://github.com/angelcpizarro/diabetes-nda-2024-25-eda)
-*Python · SQLite*
- 
-Exploratory analysis of the NHS National Diabetes Audit dataset, focused on Type 2 diabetes prevalence, treatment outcomes, and regional and demographic variation. Highlights healthcare inequalities and opportunities for service improvement.
-
----
 
 ## A bit more about me
 
