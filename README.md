@@ -9,7 +9,7 @@ I've always combined a methodical, evidence-based way of working with a genuine 
 ## What I work with
  
 - **Cloud & Warehouse**: BigQuery, Google Cloud
-- **Transformation & Modeling**: dbt (staging → intermediate → mart layers)
+- **Transformation & Modelling**: dbt (staging → intermediate → mart layers)
 - **Languages**: SQL, Python (Pandas, ingestion scripts)
 - **BI & Visualisation**: Looker Studio
 - **Dev workflow and version control**: VS Code, Git, GitHub
