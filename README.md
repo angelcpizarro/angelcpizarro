@@ -29,8 +29,6 @@ Key findings include an FMD outbreak in Indonesia in 2022 that ended the country
  
 The project follows a layered dbt architecture (staging → intermediate → mart), which includes custom data tests, and is fully documented — from architectural decisions to analytical limitations. The analysis is presented through an interactive dashboard built with Looker Studio.
 
----
-
 ### ▫️ [SQL Data Warehouse](https://github.com/angelcpizarro/sql-data-warehouse)
 *PostgreSQL · VS Code*
 
