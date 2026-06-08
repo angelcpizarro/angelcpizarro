@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my portfolio!
+# Hi there, I'm Ángel 👋 Welcome to my portfolio!
 
 I'm a Veterinary Surgeon transitioning into Data Analytics Engineering, with a focus on building the kind of data infrastructure that makes reliable analysis possible.
 
