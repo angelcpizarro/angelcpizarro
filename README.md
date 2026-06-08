@@ -23,9 +23,9 @@ I've always combined a methodical, evidence-based way of working with a genuine 
  
 An end-to-end analytics engineering project analysing 20 years of global animal disease outbreak data from WOAH (World Organisation for Animal Health), covering 201 countries and 172 diseases.
  
-What makes this project different is the data quality layer. Alongside the outbreak analysis, the project builds a model that quantifies reporting completeness by country and region, which makes it possible to ask not just *what* the data shows, but *how much we can trust it*.
+What makes this project distinctive is the data quality layer. Alongside the outbreak analysis, the project builds a model that quantifies reporting completeness by country and region, which makes it possible to ask not just *what* the data shows, but *how much we can trust it*.
 
-Key findings include an FMD outbreak in Indonesia in 2022 that ended the country's FMD-free status maintained since 1990, a possible reporting methodology anomaly in Chile's *Echinococcus granulosus* data, and a counterintuitive result showing the Middle East and Africa lead on data completeness despite not leading on outbreak counts.
+Key findings include an FMD outbreak in Indonesia in 2022 that ended the country's FMD-free status maintained since 1990, a likely reporting methodology anomaly in Chile's *Echinococcus granulosus* data, and a counterintuitive result showing the Middle East and Africa lead on data completeness despite not leading on outbreak counts.
  
 The project follows a layered dbt architecture (staging → intermediate → mart), which includes custom data tests, and is fully documented — from architectural decisions to analytical limitations. The analysis is presented through an interactive dashboard built with Looker Studio.
 
